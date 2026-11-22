@@ -1,6 +1,10 @@
+![GitHub Release](https://img.shields.io/github/v/release/bunnyhu/Plus4Commander)
+![GitHub Release Date](https://img.shields.io/github/release-date/bunnyhu/Plus4Commander)
+
 # Plus/4 Commander
 
 Desktop file manager and viewer for Commodore Plus/4 (and 16) disk images, tape images, and standalone files.
+![App Screenshot](https://github.com/bunnyhu/Plus4Commander/blob/main/_doc/preview.jpg)
 
 ## Key Features
 
